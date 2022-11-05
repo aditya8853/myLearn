@@ -23,6 +23,7 @@ public class Basic2 {
 	public void veryLast()
 	{
 		System.out.println("After all");
+		System.out.println("Git test");
 	}
 	
 	
