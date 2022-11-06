@@ -5,6 +5,8 @@ public class MyLearn{
 
 
 			System.out.println("My first command in master branch");
+
+			System.out.println("Then in next branch");
 		}
 
 }
